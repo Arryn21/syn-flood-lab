@@ -8,7 +8,7 @@ This project demonstrates a **SYN Flood Denial-of-Service (DoS) attack** in a co
 - **Network**: Tailscale VPN for private connectivity
 - **Services**: Apache2 web server hosting a looping video test page
 
-![Lab Diagram](diagrams/syn_flood_detailed_diagram.png)
+![Lab Diagram](https://github.com/Arryn21/syn-flood-lab/blob/main/syn_flood_detailed_diagram.png)
 
 ## ⚡ Attack Overview
 - A normal TCP handshake requires SYN → SYN/ACK → ACK.
